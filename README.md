@@ -1,12 +1,46 @@
-# React + Vite
+# Gaming Website (3D React App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully animated 3D gaming website built with:
 
-Currently, two official plugins are available:
+- ✅ React + Vite
+- ✅ Spline 3D (interactive character previews)
+- ✅ Framer Motion animations
+- ✅ Custom glowing cursor
+- ✅ Arena bento grid
+- ✅ Responsive layout
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+[👉]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧰 Tech Stack
+
+- React
+- Vite
+- Tailwind-style inline CSS
+- Framer Motion
+- Spline 3D (via `@splinetool/react-spline`)
+
+## 📁 Folder Structure
+/public
+/images
+/videos
+/src
+/components
+Header.jsx
+Hero.jsx
+Characters.jsx
+Arena.jsx
+Footer.jsx
+CustomCursor.jsx
+App.jsx
+main.jsx
+
+## ⚙️ Installation
+
+```bash
+npm install
+npm run dev
+npm run build
+
+Made by Mike Kanyatsi
