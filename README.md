@@ -11,7 +11,7 @@ This is a fully animated 3D gaming website built with:
 
 ## 🚀 Live Demo
 
-[👉]
+[👉 https://gaming-website-jet-seven.vercel.app/]
 
 ## 🧰 Tech Stack
 
